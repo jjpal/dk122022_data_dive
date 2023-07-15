@@ -1,10 +1,9 @@
 # DataKind Dec 2022 DataDive
 
-### Problem Statement:
-Identifying potential eligibility-enrollment gap in localities
+### Problem Statement: Identifying potential eligibility-enrollment gap in localities
 ---
 
-Insights from Notebook
+ Insights from Notebook
 ---
 
 Analysis
